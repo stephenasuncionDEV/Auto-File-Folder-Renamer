@@ -1,0 +1,10 @@
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\bin\Release\Auto File Renamer.exe.config
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\bin\Release\Auto File Renamer.exe
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\bin\Release\Auto File Renamer.pdb
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto File Renamer.csprojAssemblyReference.cache
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto_File_Renamer.Form1.resources
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto_File_Renamer.Properties.Resources.resources
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto File Renamer.csproj.GenerateResource.cache
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto File Renamer.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto File Renamer.exe
+C:\Users\steph\OneDrive\Desktop\Auto File Renamer\Auto File Renamer\obj\Release\Auto File Renamer.pdb
